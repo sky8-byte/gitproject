@@ -1,15 +1,19 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 body {
-    background-color: var(--main-color);
-    margin: 0;
+  background-color: var(--main-color);
+  margin: 0;
 }
 header {
-    background-color: aquamarine;
-    padding: 35px;
+  background-color: aquamarine;
+  padding: 35px;
 }
 .border-title {
-    background-color: darkblue;
-    text-align: center;
+  background-color: darkblue;
+  text-align: center;
+}
+
+.sub-heading {
+  color: blueviolet;
 }
