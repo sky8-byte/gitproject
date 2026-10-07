@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    background-color: blueviolet;
+    color: plum;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.page-title {
+    text-transform:uppercase;
+}
+.cloud-article {
+    background-color: lightcyan;
+    color:lightgreen;
+    text-align: center;
+}
+.cloud-article img {
+    border-radius: 20px;
+    width: 100px;
+    margin: 20px 30px 20px 30px;
+}
